@@ -199,7 +199,7 @@ li {
     transition: 0.3s;
 }
 
-.download-btn.gold:hover {
+.download-btn.goldenblue:hover {
     background: linear-gradient(135deg, #e4f5ff, #aee1ff);
     transform: translateY(-3px);
     box-shadow: 0 6px 20px rgba(150,200,255,0.7);
